@@ -1,6 +1,6 @@
-# course_presence
+$${\color{orange}Heisenberg \space \space \color{Red}student's \space \space presence \space \space project}$$
 
-$${\color{orange}Heisenberg \space \space \color{Red}project}$$
+# course_presence
 
 ```diff
 +This is a project of presence of a student in lesson professors 
