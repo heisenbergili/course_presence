@@ -19,7 +19,7 @@ There are 4 user stories to implement:
 ## 4. **Take presence**  
 >   The professor can take presence for their students in a lesson.
 ##
-> [!NOTE]
+> [!IMPORTANT]
 > The student have number, first name, last name  
 > The lesson have course, date, hour, local  
 ##
